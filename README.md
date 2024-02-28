@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hammadjafri, I work at Alibaba's South Asia venture Daraz
+- 👋 Hi, I’m @hammadjafri, I work at Upwork and was previously at Alibaba's South Asia venture Daraz
 - 👀 I’m interested in learning Search & Recommendations, and so manyyy things around information retrieval
 - 🌱 I’m currently learning ML at scale
 - 💞️ I’m looking to collaborate on anything that excites me 
